@@ -1,0 +1,19 @@
+{
+  "name": "smart-classroom-timetable-scheduler",
+  "version": "1.0.0",
+  "description": "A comprehensive smart classroom and timetable scheduling platform",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": ["timetable", "scheduler", "classroom", "education", "optimization"],
+  "author": "Smart Classroom Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
