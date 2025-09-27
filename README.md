@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Classroom & Timetable Scheduler
 
 A comprehensive web application for managing classroom schedules and timetables with AI-powered optimization features.
@@ -267,3 +268,7 @@ For support and questions:
 ---
 
 **Smart Classroom & Timetable Scheduler** - Making education scheduling smarter, faster, and more efficient! 🎓✨
+=======
+# MVP-S
+Smart Classroom &amp; Timetable Scheduler
+>>>>>>> 8a3e691e868be6b74765340794141d21bc98a03a
